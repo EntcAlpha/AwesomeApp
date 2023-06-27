@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "reminders": [
+    {
+      "id": "1",
+      "reminder": "my name is vaibhav",
+      "date": "2023-04-09",
+      "time": "19:06"
+    },
+    {
+      "id": "2",
+      "reminder": "my name is vaibhav",
+      "date": "2023-04-09",
+      "time": "19:06"
+    },
+    {
+      "id": "3",
+      "reminder": "my name is vaibhav",
+      "date": "2023-04-09",
+      "time": "19:06"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "title": "Name",
+      "text": "My name is vaibhav"
+    }
+  ]
+}
